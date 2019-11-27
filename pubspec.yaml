@@ -15,7 +15,7 @@ dependencies:
   http: ">=0.11.0 < 0.13.0"
   path: "^1.6.2"
   sqflite:
-    path: ./thrid_lib/sqflite/
+    path: ./thrid_lib/sqflite
 
 dev_dependencies:
   flutter_test:
